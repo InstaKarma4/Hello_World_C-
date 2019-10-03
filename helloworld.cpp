@@ -4,5 +4,6 @@
 int main()
 {
 	printf("hello world\n");
+	printf("new commit testing\n");
 	system("pause");
 }
